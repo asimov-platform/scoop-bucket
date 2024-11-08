@@ -11,7 +11,7 @@ This repository contains public [Scoop] manifests for the [ASIMOV Platform].
 
 ## Configuration
 
-Firstly, register this bucket in your local Scoop installation with:
+To use this bucket in Scoop you must first register it with:
 
 ```pwsh
 scoop bucket add AsimovPlatform https://github.com/AsimovPlatform/scoop-bucket
