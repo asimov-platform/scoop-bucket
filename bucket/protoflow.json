@@ -1,6 +1,6 @@
 {
     "version": "3.1.2",
-    "description": "Protoflow is a placeholder.",
+    "description": "🚧 Protoflow implements flow-based programming (FBP) for Rust using Protocol Buffers messages.",
     "homepage": "https://github.com/User344/protoflow",
     "license": "Unlicense",
     "architecture": {
