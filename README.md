@@ -1,7 +1,7 @@
 # Scoop Bucket for ASIMOV Platform
 
-[![Tests](https://github.com/AsimovPlatform/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/AsimovPlatform/scoop-bucket/actions/workflows/ci.yml)
-[![Excavator](https://github.com/AsimovPlatform/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/AsimovPlatform/scoop-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/asimov-platform/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/asimov-platform/scoop-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/asimov-platform/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/asimov-platform/scoop-bucket/actions/workflows/excavator.yml)
 
 This repository contains public [Scoop] manifests for the [ASIMOV Platform].
 
@@ -14,15 +14,15 @@ This repository contains public [Scoop] manifests for the [ASIMOV Platform].
 To use this bucket in Scoop you must first register it with:
 
 ```pwsh
-scoop bucket add AsimovPlatform https://github.com/AsimovPlatform/scoop-bucket
+scoop bucket add asimov-platform https://github.com/asimov-platform/scoop-bucket
 ```
 
 ## Installation
 
-### Install [Protoflow]
+### Install [ASIMOV CLI]
 
 ```pwsh
-scoop install AsimovPlatform/protoflow
+scoop install asimov-platform/asimov-cli
 ```
 
 ## Troubleshooting
@@ -30,6 +30,6 @@ scoop install AsimovPlatform/protoflow
 See [Scoop's documentation](https://github.com/ScoopInstaller/Scoop/wiki) in
 case of any trouble.
 
-[ASIMOV Platform]: https://github.com/AsimovPlatform
-[Protoflow]:       https://github.com/AsimovPlatform/protoflow
-[Scoop]:           https://scoop.sh
+[ASIMOV Platform]: https://github.com/asimov-platform
+[ASIMOV CLI]: https://github.com/asimov-platform/asimov-cli
+[Scoop]: https://scoop.sh
