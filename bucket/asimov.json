@@ -1,12 +1,12 @@
 {
-    "version": "25.0.0-dev.2",
+    "version": "0.0.0-dev.0",
     "description": "ASIMOV Command-Line Interface (CLI).",
     "homepage": "https://github.com/asimov-platform/asimov-cli",
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/asimov-platform/asimov-cli/releases/download/25.0.0-dev.2/asimov-windows-x64.zip",
-            "hash": "95d13a719a1e740f6dc014a55531aa7c2ebbca9493bf359539fbedf84b72ab4c"
+            "url": "https://github.com/asimov-platform/asimov-cli/releases/download/0.0.0-dev.0/asimov-windows-x64.zip",
+            "hash": "0000000000000000000000000000000000000000000000000000000000000000"
         }
     },
     "bin": "asimov.exe",
