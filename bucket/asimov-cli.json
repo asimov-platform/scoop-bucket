@@ -12,7 +12,7 @@
     "bin": "asimov.exe",
     "checkver": {
         "url": "https://github.com/asimov-platform/asimov-cli/releases",
-        "regex": "releases/tag/(v?\\d+\\.\\d+\\.\\d+-[a-zA-Z]+\\.\\d+)"
+        "regex": "releases/tag/(v?\\d+\\.\\d+\\.\\d+(-[a-zA-Z]+\\.\\d+)?)"
     },
     "autoupdate": {
         "architecture": {
